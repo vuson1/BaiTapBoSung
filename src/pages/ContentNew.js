@@ -15,7 +15,7 @@ function Content() {
     return (
         <div>
             <div class="flex relative grid grid-cols-4">
-                <div class="w-1/2  bg-white px-1">
+                <div class=" w-1/2   bg-white p-5">
                     <h2 class="text-2xl mb-1.5 font-semibold">Tin tức - Sự kiện</h2>
                     <ul class="relative">
                         <li class="relative border-b">
@@ -41,8 +41,9 @@ function Content() {
                         </li>
                     </ul>
                 </div>
-                <div class="grid grid-cols-3 gap-12 col-span-3">
-                    {/* <div><img src={content_img}></img> </div> */}
+                <div class="col-span-3 mr-11 mt-16" ><img src={content_img}></img> </div><br></br>
+                <div class="grid grid-cols-3  gap-12 col-span-3">
+                    
                     
                     <div className="noi-dung grid grid-cols-2 gap-8 col-span-2">
                         <div class="flex w-auto">

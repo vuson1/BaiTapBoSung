@@ -3,7 +3,7 @@ import React from "react";
 export function Talk() {
     return (
         <div classname=" w-full">
-            <div className="bg-gray-700 relative pt-6">
+            <div className="bg-zinc-800 relative pt-6">
                 <h2 className="text-center text-white text-2xl">NÓI VỀ SoICT</h2>
                 <div className="pt-6"></div>
                 <div

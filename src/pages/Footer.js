@@ -3,7 +3,7 @@ import icon_foot from "../images/logo_footer.png";
 
 export function Footer() {
   return (
-    <footer class="text-center lg:text-left bg-[#36363B] text-white">
+    <footer class="text-center lg:text-left bg-[#363636c4] text-white">
 
       <div class="mx-6 py-10 text-center md:text-left">
         <div class="grid grid-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

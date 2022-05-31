@@ -4,7 +4,7 @@ export function Content() {
     return (
         <div id="Content" className="w-full ">
             <h1 class="font-medium leading-tight text-3xl mt-0 mb-2 text-center pt-7 pb-5">TIN MỚI NHẤT</h1>
-            <div className="grid grid-cols-4 sm:grid-cols-4 gap-x-0 pl-80 pr-80 ">
+            <div className="grid grid-cols-4 sm:grid-cols-4 gap-x-0 pl-11 ">
                 <div id="1" className="relative b">
                     <div id="img" className="relative ">
                         <img width="280" height="200" src="https://soict.hust.edu.vn/wp-content/uploads/HT-SV-Ng-Van-Quyen-cover-1.jpg" class="attachment-medium size-medium wp-post-image h-40 pt" alt="" />

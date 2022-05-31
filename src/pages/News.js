@@ -20,12 +20,12 @@ export function News() {
                                 <a href="#!">
                                     <img class="rounded-t-lg w-full h-36" src="https://soict.hust.edu.vn/wp-content/uploads/Khai-Truong-EdTech.jpg" alt="" />
                                 </a>
-                                <div className="absolute left-6 top-28 bg-slate-700">
+                                <div className="absolute left-6 top-24 bg-slate-700">
                                     <p className=" text-white uppercase font-bold text-xs p-4 ">01 <br /> TH 06</p>
                                 </div>
                                 <div class="p-4">
 
-                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-7 font-bold" >
+                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-1 font-bold" >
                                         Lễ ra mắt  “Trung tâm Công nghệ và Giải pháp Chuyển đổi</h5>
                                     <p class="text-gray-700 text-xs pt-8 ">
                                         Thời gian: 9:45 AM - 01/06/2022
@@ -40,11 +40,11 @@ export function News() {
                                 <a href="#!">
                                     <img class="rounded-t-lg h-36 w-full" src="https://soict.hust.edu.vn/wp-content/uploads/STUDENT-CREATIVE-IDEAS-CHALLENGE-2022.jpg" alt="" />
                                 </a>
-                                <div className="absolute left-6 top-28 bg-slate-700">
+                                <div className="absolute left-6 top-24 bg-slate-700">
                                     <p className=" text-white uppercase font-bold text-xs p-4 ">01 <br /> TH 06</p>
                                 </div>
                                 <div class="p-4">
-                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-7 font-bold" >
+                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-1 font-bold" >
 
                                         INNOVATION DAY 2022                            </h5>
                                     <p class="text-gray-700 text-xs pt-8 ">
@@ -59,11 +59,11 @@ export function News() {
                                 <a href="#!">
                                     <img class="rounded-t-lg h-36 w-full" src="https://soict.hust.edu.vn/wp-content/uploads/STUDENT-CREATIVE-IDEAS-CHALLENGE-2022.jpg" alt="" />
                                 </a>
-                                <div className="absolute left-6 top-28 bg-slate-700">
+                                <div className="absolute left-6 top-24 bg-slate-700">
                                     <p className=" text-white uppercase font-bold text-xs p-4 ">01 <br /> TH 06</p>
                                 </div>
                                 <div class="p-4">
-                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-7 font-bold" >
+                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-1 font-bold" >
                                         CUỘC THI TÌM KIẾM Ý TƯỞNG SÁNG TẠO SINH VIÊN 2022</h5>
                                     <p class="text-gray-700 text-xs pt-8 ">
                                         Thời gian: 8:00 AM - 08/05/2022
@@ -77,11 +77,11 @@ export function News() {
                                 <a href="#!">
                                     <img class="rounded-t-lg h-36 w-full" src="https://soict.hust.edu.vn/wp-content/uploads/IMG_1651507570048_1651507626090-5.jpg" alt="" />
                                 </a>
-                                <div className="absolute left-6 top-28 bg-slate-700">
+                                <div className="absolute left-6 top-24 bg-slate-700">
                                     <p className=" text-white uppercase font-bold text-xs p-4 ">01 <br /> TH 06</p>
                                 </div>
                                 <div class="p-4">
-                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-7 font-bold" >
+                                    <h5 class="text-gray-900 text-lg  mb-2 h-12 pt-1 font-bold" >
                                         HỘI THẢO KHOA HỌC VỀ CÁC XU THẾ HIỆN TẠI VÀ TƯƠNG</h5>
                                     <p class="text-gray-700 text-xs pt-8 ">
                                         Thời gian: 2:00 PM - 06/05/2022

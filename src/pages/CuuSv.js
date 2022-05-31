@@ -4,7 +4,7 @@ export function CuuSv() {
     return (
         <div id="Content" className="w-full ">
             <h1 class="font-medium leading-tight text-3xl mt-0 mb-2 text-center pt-7 pb-5">CỰU SINH VIÊN</h1>
-            <div className="grid grid-cols-4 sm:grid-cols-4 gap-x-0 pl-80 pr-80 ">
+            <div className="grid grid-cols-4 sm:grid-cols-4 gap-x-0 pl-14 pr-14 ">
                 <div class="flex justify-center mr-4">
                     <div class="rounded-lg shadow-lg bg-white max-w-sm">
                         <a href="#!">
